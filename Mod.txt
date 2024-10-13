@@ -1,0 +1,11 @@
+Streamlit
+Matplotlib
+Pandas
+NumPy
+Plotly
+Requests
+
+
+
+
+
